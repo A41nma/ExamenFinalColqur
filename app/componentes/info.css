@@ -1,0 +1,18 @@
+.info{
+display: flex;
+flex direction: column;
+padding: 20px;
+
+}
+.nombre{
+color: white;
+font size: 18px;
+line height: 160%;
+font roboto;
+}
+.series{
+color: white;
+font size: 14px;
+line height: 160%;
+style: normal;
+}
