@@ -1,18 +1,15 @@
 .info{
 display: flex;
-flex direction: column;
+flex-direction: column;
 padding: 20px;
-
 }
 .nombre{
 color: white;
-font size: 18px;
-line height: 160%;
-font roboto;
+font-size: 18px;
+line-height: 160%;
 }
 .series{
 color: white;
-font size: 14px;
-line height: 160%;
-style: normal;
+font-size: 14px;
+line-height: 160%;
 }

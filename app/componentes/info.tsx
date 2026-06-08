@@ -1,6 +1,6 @@
 import "./info.css"
 
-export default function info() {
+export default function Info() {
     return (
         <div className="info">
             <h2 className="nombre">Puxada fontal</h2>

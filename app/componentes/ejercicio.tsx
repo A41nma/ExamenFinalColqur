@@ -1,13 +1,9 @@
 import "./ejercicio.css"
-import images from "../imagenes/images"
-export default function ejercicio() {
+import Ejerciciocard from "./ejerciciocard"
+export default function Ejercicio() {
     return (
         <div className="ejercicio">
-            <h1>Exercicios</h1>
-            
-          
+            <Ejerciciocard/>  
         </div>
-
-
     )
 }

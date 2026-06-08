@@ -1,6 +1,11 @@
 import "./ejerciciocard.css"
-import info from "./info"
-export default function ejerciciocard() {
+import Info from "./info"
+export default function Ejerciciocard() {
     return (
-        <div className="card">
-            <imp src="../imagenes/images.jfif"
+        <div className="ejerciciocard">
+            <img src="/imagenes/images.jfif" alt="Ejercicio" />
+            <Info/>
+            <button className="button"> {">"} </button>
+        </div>
+    )
+}

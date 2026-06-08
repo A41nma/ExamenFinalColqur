@@ -1,14 +1,17 @@
 .ejerciciocard{
 display: flex;
-flex items: center;
-padding: 20px;
-background-color: black;
-
+flex-direction: row;
+align-items: center;
+gap: 90px;
+background-color: rgb(39, 36, 36);
+border-radius: 6px;
+width: 500px;
+height: 80px;
 }
 .imagen{
 width: 67px;
 height: 67px;
 top : 8px;
 left: 8px;
-radius: 6px;
+border-radius: 6px;
 }
