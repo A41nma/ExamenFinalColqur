@@ -1,0 +1,14 @@
+.ejerciciocard{
+display: flex;
+flex items: center;
+padding: 20px;
+background-color: black;
+
+}
+.imagen{
+width: 67px;
+height: 67px;
+top : 8px;
+left: 8px;
+radius: 6px;
+}

@@ -1,0 +1,6 @@
+.ejercicio{
+display: flex;
+align-items: column;
+padding: 20px;
+
+}
